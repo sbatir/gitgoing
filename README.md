@@ -96,4 +96,4 @@ This creates a set of `.html` files in the folder `build`. If you go into that f
 Sphinx takes a little bit of configuration, but can automatically genreate a page directly from your Python package, including the documentation you provide for your classes and methods. And you can regenerate the documentation whenever you change the code. This makes it easy to automatically document your project and keep the documentation up to date.
 
 ## Additional useful links
-http://www.sbf5.com/~cduan/technical/git/
+gtp://www.sbf5.com/~cduan/technical/gits/
